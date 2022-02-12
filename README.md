@@ -1,6 +1,6 @@
 # 😎 Welcome to slinkwave 😎
 
-![Split-pane editor using the "slinkwave" theme. Previews syntax for scss and JS](slinkwave-screenshot.png)
+![Split-pane editor using the "slinkwave" theme. Previews syntax for scss and JS](images/slinkwave-screenshot.png)
 
 A VS Code theme built for the cyber space. These colors are based on the incredible Monokai Pro theme, fine-tuned to mirror the deep purples and bright neons of Synthwave '84.
 
