@@ -9,6 +9,11 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/slinkity/slinkwave-themes.git"
+    },
+    "bugs": "https://github.com/slinkity/slinkity/issues",
     "contributes": {
         "themes": [
             {
