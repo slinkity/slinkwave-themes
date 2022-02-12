@@ -4,6 +4,7 @@
     "description": "A retro, synthwave-inspired theme based on the incredible Slinkity open source project",
     "version": "0.0.1",
     "icon": "images/favicon.png",
+    "publisher": "bholmesdev",
     "engines": {
         "vscode": "^1.64.0"
     },
