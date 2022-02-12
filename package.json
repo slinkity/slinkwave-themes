@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/slinkity/slinkwave-themes.git"
+        "url": "https://github.com/slinkity/slinkwave-themes"
     },
     "bugs": "https://github.com/slinkity/slinkity/issues",
     "contributes": {
