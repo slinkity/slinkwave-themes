@@ -2,7 +2,7 @@
 
 ![Split-pane editor using the "slinkwave" theme. Previews syntax for scss and JS](slinkwave-screenshot.png)
 
-An editor theme built for the cyber space. These colors are based on the incredible Monokai Pro theme, fine-tuned to mirror the deep purples and bright neons of Synthwave '84.
+A VS Code theme built for the cyber space. These colors are based on the incredible Monokai Pro theme, fine-tuned to mirror the deep purples and bright neons of Synthwave '84.
 
 Like what you see? Support the [Slinkity](https://slinkity.dev/) open source project for more web tooling and more retro aesthetic 😎
 
